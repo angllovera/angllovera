@@ -7,8 +7,6 @@
 </p>
 
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664)
-[![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/Aditya664)
 
 <div size='20px'> ¡Hola! Mi nombre es Angel. Gracias por tomarse el tiempo de ver mi perfil de GitHub :smile: 
 </div>
