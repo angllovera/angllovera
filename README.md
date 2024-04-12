@@ -15,7 +15,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 Actualmente Soy Estudiante de la UAGRM
+- 🔭 Actualmente soy sstudiante de la UAGRM
   
 - 🌱 Actualmente estoy aprendiendo Desarrollo Web FullStack
 
